@@ -1,0 +1,17 @@
+{
+  "name": "express-task",
+  "version": "1.0.0",
+  "description": "A Express JS Tak For GUVI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Manigandaprabu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
